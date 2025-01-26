@@ -19,3 +19,5 @@ ex%: %.md
 	test -r $<
 ex%: %.py
 	python $<
+ex04:
+	@echo SKIP
