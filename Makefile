@@ -1,5 +1,3 @@
-# copied from https://stackoverflow.com/a/9946567/1324631
-
 SUBDIRS = $(shell ls -d */)
 
 all:
